@@ -89,6 +89,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- CodersRank [@kyrylolvov](https://profile.codersrank.io/user/kyrylolvov/)
 - GitHub [@your-username](https://{github.com/your-usermame})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
