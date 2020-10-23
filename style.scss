@@ -1,1 +1,52 @@
+$gray1: #333333;
+$gray2: #4F4F4F;
+$gray3: #BDBDBD;
+
+$headinngfont: 'Playfair Display', serif;
+$textfont: 'Montserrat', sans-serif;
+
+body{
+    width: 70%;
+    margin: 10px auto;
+}
+h1{
+    font-size: 48px;
+    font-family: $headinngfont;
+    font-weight: 700;
+}
+#headerParagraph{
+    font-family: $textfont;
+    font-weight: 500;
+    font-size: 14px;
+    width: 590px;
+    font-style: italic;
+    color: $gray2;
+    margin: 0px 12px;
+}
+.headerText{
+    display: flex;
+}
+#main{
+    width: 969px;
+    margin-top: 27px;
+}
+#dots{
+    height: 10px;
+    margin-top: 5px;
+}
+h2{
+    font-family: $headinngfont;
+    font-weight: 700;
+    font-size: 24px;
+    color: $gray1;
+    margin-top: 48px;
+}
+h3{
+    font-family: $headinngfont;
+    font-weight: 400;
+    font-size: 18px;
+    color: $gray1;
+    font-style: italic;
+    margin-top: 32px;
+}
 
