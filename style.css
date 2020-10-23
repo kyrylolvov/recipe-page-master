@@ -1,1 +1,54 @@
+body {
+  width: 70%;
+  margin: 10px auto;
+}
 
+h1 {
+  font-size: 48px;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+}
+
+#headerParagraph {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  width: 590px;
+  font-style: italic;
+  color: #4F4F4F;
+  margin: 0px 12px;
+}
+
+.headerText {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#main {
+  width: 969px;
+  margin-top: 27px;
+}
+
+#dots {
+  height: 10px;
+  margin-top: 5px;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: #333333;
+  margin-top: 48px;
+}
+
+h3 {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+  font-style: italic;
+  margin-top: 32px;
+}
+/*# sourceMappingURL=style.css.map */
