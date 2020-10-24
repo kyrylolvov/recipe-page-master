@@ -49,4 +49,19 @@ h3{
     font-style: italic;
     margin-top: 32px;
 }
-
+.labeltext{
+    font-family: $textfont;
+    font-weight: 400;
+    color: $gray1;
+    font-size: 16px;
+    margin: 0px 0px 0px 17px;
+    width: 554px;
+}
+.checktext{
+    display: flex;
+    vertical-align: top;
+    margin-top: 30px;
+}
+strong{
+    font-weight: 700;
+}
