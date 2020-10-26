@@ -58,7 +58,8 @@ h3 {
   color: #333333;
   font-size: 16px;
   margin: 0px 0px 0px 17px;
-  width: 554px;
+  width: 528px;
+  line-height: 24px;
 }
 
 .checktext {
@@ -69,11 +70,51 @@ h3 {
   margin-top: 14px;
 }
 
+.numbertext {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  vertical-align: top;
+  margin-top: 40px;
+}
+
 strong {
   font-weight: 700;
 }
 
 em {
   font-weight: 500;
+}
+
+.number {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 24px;
+  width: 36px;
+  height: 36px;
+  background-color: #F2994A;
+  border-radius: 6px;
+  text-align: center;
+  color: white;
+  margin: 0px;
+}
+
+main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.sidebar {
+  width: 216px;
+  height: 367px;
+  margin-left: 155px;
+  margin-top: 48px;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 /*# sourceMappingURL=style.css.map */
