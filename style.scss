@@ -1,6 +1,7 @@
 $gray1: #333333;
 $gray2: #4F4F4F;
 $gray3: #BDBDBD;
+
 $headinngfont: 'Playfair Display', serif;
 $textfont: 'Montserrat', sans-serif;
 
@@ -98,5 +99,24 @@ main{
 .row{
     display: flex;
 }
+#knife{
+    width: 37px;
+    height: 36px;
+}
+.title{
+    font-family: $textfont;
+    font-weight: 500;
+    font-size: 10px;
+    color: $gray3;
+    margin: 0px 14px;
+}
+.amount{
+    font-family: $textfont;
+    font-weight: 500;
+    font-size: 14px;
+    color: #f2994a;
+    margin: 4px 14px;
+}
+
 
 
