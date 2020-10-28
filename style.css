@@ -117,4 +117,25 @@ main {
   display: -ms-flexbox;
   display: flex;
 }
+
+#knife {
+  width: 37px;
+  height: 36px;
+}
+
+.title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 10px;
+  color: #BDBDBD;
+  margin: 0px 14px;
+}
+
+.amount {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #f2994a;
+  margin: 4px 14px;
+}
 /*# sourceMappingURL=style.css.map */
