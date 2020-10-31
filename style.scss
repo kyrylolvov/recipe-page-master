@@ -160,10 +160,12 @@ main{
     body{
         width: 95%;
     }
+    main{
+        flex-direction: column-reverse;
+    }
+    .sidebar{
+        display: inline;
+    }
 }
-
-
-
-
 
 
