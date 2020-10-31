@@ -186,5 +186,14 @@ main {
   body {
     width: 95%;
   }
+  main {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+  }
+  .sidebar {
+    display: inline;
+  }
 }
 /*# sourceMappingURL=style.css.map */
