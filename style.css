@@ -160,4 +160,31 @@ main {
   color: #333333;
   margin: 4px 14px;
 }
+
+@media (max-width: 1387px) {
+  #main {
+    width: 900px;
+  }
+  .sidebar {
+    margin-left: 110px;
+  }
+}
+
+@media (max-width: 1324px) {
+  body {
+    width: 85%;
+  }
+}
+
+@media (max-width: 1102px) {
+  body {
+    width: 95%;
+  }
+}
+
+@media (max-width: 420px) {
+  body {
+    width: 95%;
+  }
+}
 /*# sourceMappingURL=style.css.map */
